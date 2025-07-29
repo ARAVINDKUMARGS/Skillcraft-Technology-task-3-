@@ -1,2 +1,2 @@
-# Skillcraft-Technology-task-3-
+# Skillcraft-Technology-task-2-
 Software development internship 
